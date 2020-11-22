@@ -1,5 +1,5 @@
 <?php
-namespace Holjevac;
+namespace Zilic;
 
 use stdClass;
 use Faker\Factory;

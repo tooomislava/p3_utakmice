@@ -1,16 +1,16 @@
 {
-    "name": "holjevac-php/p3restapi",
+    "name": "zilic-php/p3restapi",
     "description": "Primjer kreiranja REST API za potrebe kolegija Programiranje 3",
     "type": "project",
     "authors": [
         {
-            "name": "Maria Holjevac",
-            "email": "mholjevac@ffos.hr"
+            "name": "Tomislava Zilic",
+            "email": "tzilic@ffos.hr"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Holjevac\\": "src/Holjevac"
+            "Zilic\\": "src/Zilic"
         }
     },
     "require": {

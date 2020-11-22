@@ -1,0 +1,21 @@
+{
+    "name": "holjevac-php/p3restapi",
+    "description": "Primjer kreiranja REST API za potrebe kolegija Programiranje 3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Maria Holjevac",
+            "email": "mholjevac@ffos.hr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Holjevac\\": "src/Holjevac"
+        }
+    },
+    "require": {
+        "mikecao/flight": "^1.3",
+        "fzaninotto/faker": "^1.9",
+        "pelmered/fake-car": "^1.0"
+    }
+}
